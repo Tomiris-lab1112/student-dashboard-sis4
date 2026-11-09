@@ -1,5 +1,35 @@
-# Vue 3 + Vite
+# SIS 4 — Student Dashboard
+Student Dashboard web application built with Vue.js.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Technologies
+- Vue 3
+- Ant Design Vue
+- Vue Router
+- Axios
+- REST API
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Pages
+- Dashboard — student statistics
+- Students — student list from REST API
+- Courses — available courses
+- Profile — student information
+
+## Features
+- Multiple page navigation
+- Data fetching using Axios
+- Loading state
+- Success messages
+- Error handling
+- Student search
+- Responsive UI
+
+## Run Project
+
+npm install
+npm run dev
+
+## Build
+npm run build
+
+## API
+https://jsonplaceholder.typicode.com/users
