@@ -31,5 +31,4 @@ npm run dev
 ## Build
 npm run build
 
-## API
-https://jsonplaceholder.typicode.com/users
+
